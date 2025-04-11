@@ -1,0 +1,456 @@
+[
+{
+    "type": "header",
+    "version": "5.2.1",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "survey_system"
+},
+{
+    "type": "table",
+    "name": "answers",
+    "database": "survey_system",
+    "data": 
+[
+
+]
+
+}
+,{
+    "type": "table",
+    "name": "products",
+    "database": "survey_system",
+    "data": 
+[
+{
+    "id": "1",
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": "800.00",
+    "compatibility": "Unknown",
+    "connectivity": "Wi-Fi",
+    "feature": "General",
+    "popularity": "0"
+},
+{
+    "id": "2",
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": "600.00",
+    "compatibility": "Unknown",
+    "connectivity": "Wi-Fi",
+    "feature": "General",
+    "popularity": "0"
+},
+{
+    "id": "3",
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": "150.00",
+    "compatibility": "Unknown",
+    "connectivity": "Wi-Fi",
+    "feature": "General",
+    "popularity": "0"
+},
+{
+    "id": "4",
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": "800.00",
+    "compatibility": "Unknown",
+    "connectivity": "Wi-Fi",
+    "feature": "General",
+    "popularity": "0"
+},
+{
+    "id": "5",
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": "600.00",
+    "compatibility": "Unknown",
+    "connectivity": "Wi-Fi",
+    "feature": "General",
+    "popularity": "0"
+},
+{
+    "id": "6",
+    "name": "Blender",
+    "category": "Home Appliances",
+    "price": "150.00",
+    "compatibility": "Unknown",
+    "connectivity": "Wi-Fi",
+    "feature": "General",
+    "popularity": "0"
+},
+{
+    "id": "7",
+    "name": "Ring Video Doorbell",
+    "category": "Security",
+    "price": "199.00",
+    "compatibility": "\"Alexa\", \"Google Assistant\"",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart Locks",
+    "popularity": "5"
+},
+{
+    "id": "8",
+    "name": "Nest Thermostat",
+    "category": "Energy",
+    "price": "249.00",
+    "compatibility": "\"Google Assistant\", \"Alexa\"",
+    "connectivity": "Wi-Fi",
+    "feature": "Temperature Control",
+    "popularity": "4"
+},
+{
+    "id": "9",
+    "name": "Philips Hue Smart Bulb",
+    "category": "Lighting",
+    "price": "50.00",
+    "compatibility": "Siri",
+    "connectivity": "Bluetooth",
+    "feature": "Color Changing",
+    "popularity": "5"
+},
+{
+    "id": "10",
+    "name": "August Smart Lock",
+    "category": "Security",
+    "price": "149.00",
+    "compatibility": "\"Alexa\", \"Google Assistant\"",
+    "connectivity": "Bluetooth",
+    "feature": "Smart Locks",
+    "popularity": "4"
+},
+{
+    "id": "11",
+    "name": "Eufy Security Camera",
+    "category": "Security",
+    "price": "300.00",
+    "compatibility": "\"Google Assistant\"",
+    "connectivity": "Wi-Fi",
+    "feature": "Security Cameras",
+    "popularity": "4"
+},
+{
+    "id": "12",
+    "name": "TP-Link Smart Plug",
+    "category": "Energy",
+    "price": "25.00",
+    "compatibility": "\"Alexa\", \"Google Assistant\"",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart Plugs",
+    "popularity": "4"
+},
+{
+    "id": "13",
+    "name": "Samsung Smart TV",
+    "category": "Entertainment",
+    "price": "999.00",
+    "compatibility": "\"Alexa\", \"Google Assistant\"",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart TV",
+    "popularity": "5"
+},
+{
+    "id": "14",
+    "name": "Apple HomePod",
+    "category": "Entertainment",
+    "price": "299.00",
+    "compatibility": "\"Siri\"",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart Speakers",
+    "popularity": "4"
+},
+{
+    "id": "15",
+    "name": "Ring Video Doorbell",
+    "category": "Security",
+    "price": "199.99",
+    "compatibility": "Alexa,Google Assistant",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart Locks",
+    "popularity": "5"
+},
+{
+    "id": "16",
+    "name": "Nest Thermostat",
+    "category": "Energy",
+    "price": "249.99",
+    "compatibility": "Google Assistant,Alexa",
+    "connectivity": "Wi-Fi",
+    "feature": "Temperature Control",
+    "popularity": "4"
+},
+{
+    "id": "17",
+    "name": "Philips Hue Smart Bulb",
+    "category": "Lighting",
+    "price": "50.00",
+    "compatibility": "Siri",
+    "connectivity": "Bluetooth",
+    "feature": "Color Changing",
+    "popularity": "5"
+},
+{
+    "id": "18",
+    "name": "August Smart Lock",
+    "category": "Security",
+    "price": "149.99",
+    "compatibility": "Alexa,Google Assistant",
+    "connectivity": "Bluetooth",
+    "feature": "Smart Locks",
+    "popularity": "4"
+},
+{
+    "id": "19",
+    "name": "Eufy Security Camera",
+    "category": "Security",
+    "price": "300.00",
+    "compatibility": "Google Assistant",
+    "connectivity": "Wi-Fi",
+    "feature": "Security Cameras",
+    "popularity": "4"
+},
+{
+    "id": "20",
+    "name": "TP-Link Smart Plug",
+    "category": "Energy",
+    "price": "25.00",
+    "compatibility": "Alexa,Google Assistant",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart Plugs",
+    "popularity": "4"
+},
+{
+    "id": "21",
+    "name": "Samsung Smart TV",
+    "category": "Entertainment",
+    "price": "999.00",
+    "compatibility": "Alexa,Google Assistant",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart TV",
+    "popularity": "5"
+},
+{
+    "id": "22",
+    "name": "Apple HomePod",
+    "category": "Entertainment",
+    "price": "299.00",
+    "compatibility": "Siri",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart Speakers",
+    "popularity": "4"
+},
+{
+    "id": "23",
+    "name": "Google Nest Hub",
+    "category": "Entertainment",
+    "price": "200.00",
+    "compatibility": "Google Assistant",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart Display",
+    "popularity": "5"
+},
+{
+    "id": "24",
+    "name": "Philips Hue Smart Bulb",
+    "category": "Lighting",
+    "price": "150.00",
+    "compatibility": "Siri",
+    "connectivity": "Bluetooth",
+    "feature": "Color Changing",
+    "popularity": "4"
+},
+{
+    "id": "25",
+    "name": "Sonos Smart Speaker",
+    "category": "Entertainment",
+    "price": "300.00",
+    "compatibility": "Google Assistant",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart Speaker",
+    "popularity": "5"
+},
+{
+    "id": "26",
+    "name": "Nest Thermostat",
+    "category": "Energy",
+    "price": "400.00",
+    "compatibility": "Google Assistant",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart Thermostat",
+    "popularity": "4"
+},
+{
+    "id": "27",
+    "name": "Arlo Security Camera",
+    "category": "Security",
+    "price": "350.00",
+    "compatibility": "Google Assistant",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart security cameras",
+    "popularity": "5"
+},
+{
+    "id": "28",
+    "name": "Samsung Smart TV",
+    "category": "Entertainment",
+    "price": "1800.00",
+    "compatibility": "Siri",
+    "connectivity": "Bluetooth",
+    "feature": "Smart TV",
+    "popularity": "5"
+},
+{
+    "id": "29",
+    "name": "Apple HomePod Mini",
+    "category": "Entertainment",
+    "price": "99.00",
+    "compatibility": "Siri",
+    "connectivity": "Bluetooth",
+    "feature": "Smart Speakers",
+    "popularity": "4"
+},
+{
+    "id": "30",
+    "name": "Philips Hue Smart Bulb",
+    "category": "Lighting",
+    "price": "50.00",
+    "compatibility": "Siri",
+    "connectivity": "Bluetooth",
+    "feature": "Color Changing",
+    "popularity": "5"
+},
+{
+    "id": "31",
+    "name": "Sonos One Speaker",
+    "category": "Entertainment",
+    "price": "199.00",
+    "compatibility": "Siri",
+    "connectivity": "Bluetooth",
+    "feature": "Smart Speakers",
+    "popularity": "5"
+},
+{
+    "id": "32",
+    "name": "Apple TV 4K",
+    "category": "Entertainment",
+    "price": "179.00",
+    "compatibility": "Siri",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart Display",
+    "popularity": "5"
+},
+{
+    "id": "33",
+    "name": "LIFX Color Bulb",
+    "category": "Lighting",
+    "price": "70.00",
+    "compatibility": "Siri",
+    "connectivity": "Wi-Fi",
+    "feature": "Color Changing",
+    "popularity": "5"
+},
+{
+    "id": "34",
+    "name": "LG OLED TV",
+    "category": "Entertainment",
+    "price": "2000.00",
+    "compatibility": "Siri",
+    "connectivity": "Wi-Fi",
+    "feature": "Smart TV",
+    "popularity": "5"
+},
+{
+    "id": "35",
+    "name": "Samsung Smart TV",
+    "category": "Entertainment",
+    "price": "1800.00",
+    "compatibility": "Siri",
+    "connectivity": "Bluetooth",
+    "feature": "Smart TV",
+    "popularity": "5"
+},
+{
+    "id": "36",
+    "name": "Apple HomePod Mini",
+    "category": "Entertainment",
+    "price": "99.00",
+    "compatibility": "Siri",
+    "connectivity": "Bluetooth",
+    "feature": "Smart Speakers",
+    "popularity": "5"
+},
+{
+    "id": "37",
+    "name": "Philips Hue Color Bulb",
+    "category": "Lighting",
+    "price": "70.00",
+    "compatibility": "Siri",
+    "connectivity": "Bluetooth",
+    "feature": "Color Changing",
+    "popularity": "5"
+},
+{
+    "id": "38",
+    "name": "Sonos One Speaker",
+    "category": "Entertainment",
+    "price": "199.00",
+    "compatibility": "Siri",
+    "connectivity": "Bluetooth",
+    "feature": "Smart Speakers",
+    "popularity": "5"
+},
+{
+    "id": "39",
+    "name": "Apple TV 4K",
+    "category": "Entertainment",
+    "price": "179.00",
+    "compatibility": "Siri",
+    "connectivity": "Bluetooth",
+    "feature": "Smart Display",
+    "popularity": "5"
+}
+]
+
+}
+,{
+    "type": "table",
+    "name": "questions",
+    "database": "survey_system",
+    "data": 
+[
+
+]
+
+}
+,{
+    "type": "table",
+    "name": "surveys",
+    "database": "survey_system",
+    "data": 
+[
+
+]
+
+}
+,{
+    "type": "table",
+    "name": "user",
+    "database": "survey_system",
+    "data": 
+[
+{
+    "id": "10",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "created_at": "2025-03-13 00:14:07",
+    "password": "$2b$10$YzJfgE7ovXt.a2K6ZrOC5O4PnPBgywdnNBFosW\/BlgcrT.ontDxgC"
+}
+]
+
+}
+]
